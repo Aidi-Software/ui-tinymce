@@ -1,3 +1,5 @@
+# Forked version of UI Tinymce to add tinymce version 7 compatibility
+
 # UI Tinymce - [AngularJS](http://angularjs.org/) directive for [TinyMCE](http://tinymce.com).
 
 [![Build Status](https://travis-ci.org/angular-ui/ui-tinymce.png)](https://travis-ci.org/angular-ui/ui-tinymce) 
@@ -10,7 +12,7 @@ This library is looking for a maintainer. If you feel up to the task please open
 # Requirements
 
 - AngularJS 1.4.x or higher and it has been tested with Angular 1.4.8.
-- TinyMCE 4
+- ~~TinyMCE 4~~ TinyMCE 7
 
 # Testing
 
